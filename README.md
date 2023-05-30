@@ -19,10 +19,11 @@
 
 ## 💫 Status
 
+![Solved.ac
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unhappydogchew)](https://solved.ac/unhappydogchew)
+
 ![UnhappyDogChew's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnhappyDogChew&show_icons=true&theme=radical)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=unhappydogchew)](https://solved.ac/unhappydogchew)
 
 <!--
 **UnhappyDogChew/UnhappyDogChew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
