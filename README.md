@@ -1,4 +1,4 @@
-### Hi there 👋
+![UnhappyDogChew's GitHub stats](https://github-readme-stats.vercel.app/api?username=UnhappyDogChew&show_icons=true&theme=radical)
 
 <!--
 **UnhappyDogChew/UnhappyDogChew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
