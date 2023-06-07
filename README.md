@@ -14,7 +14,7 @@
 - [ ] 노마드코더 CSS Layout 마스터클래스 클론 프로젝트 모두 완료하기
 - [ ] HTML mdn 튜토리얼 완독하고 정리하기
 - [ ] CSS mdn 튜토리얼 완독하고 정리하기
-- [ ] JavaScript mdn 튜토리얼 완독하고 정리하기
+- [x] JavaScript mdn 튜토리얼 완독하고 정리하기
 
 
 ## 💫 Status
